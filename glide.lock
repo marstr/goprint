@@ -1,0 +1,6 @@
+hash: 82d55c0c6577c3753e808e069d93aa1193765ca9d54da4da7c9977fa0e7d09ff
+updated: 2017-08-10T09:49:46.812904227-07:00
+imports:
+- name: github.com/Azure/azure-sdk-for-go
+  version: 2d49bb8f2cee530cc16f1f1a9f0aae763dee257d
+testImports: []

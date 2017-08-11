@@ -1,0 +1,4 @@
+package: playground/parser
+import:
+- package: github.com/Azure/azure-sdk-for-go
+  version: ^10.2.1-beta
